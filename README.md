@@ -1,7 +1,6 @@
 # Mongolian-phonetic keyboard — Windows
 
 Латин үсгээр бичиж байгаа юм шиг крилл үсгээр бичих **Windows**-д зориулсан keyboard layout.
-[amgaa/mongolian-phonetic](https://github.com/amgaa/mongolian-phonetic) (macOS) төслийн Windows хувилбар.
 
 Жишээ нь: **`Mongol hel`** гэж бичихэд **`Монгол хэл`** гэж гарна.
 
